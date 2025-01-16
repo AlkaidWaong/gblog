@@ -1,4 +1,7 @@
 /** @type {import('tailwindcss').Config} */
+import tailwindNesting from 'tailwindcss/nesting'
+import prelinePlugin from 'preline/plugin'
+import typography from '@tailwindcss/typography'
 
 export default {
     content: [
@@ -115,8 +118,8 @@ export default {
         },
     },
     plugins: [
-        require('tailwindcss/nesting'),
-        require('preline/plugin'),
-        require('@tailwindcss/typography'),
+        tailwindNesting,
+        prelinePlugin,
+        typography,
     ],
 }
