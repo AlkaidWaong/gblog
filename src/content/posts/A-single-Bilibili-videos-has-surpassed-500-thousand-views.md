@@ -1,6 +1,6 @@
 ---
 title: "B站单稿件播放破50万了"
-description: "在家居家装领域，订单履约的时效管理复杂而多样。对于有明确截止日期要求的大单，如整装、局改装修等项目，涉及到众多的步骤和多个团队的协作。"
+description: "之前很喜欢上B站，也传过一些视频，没想到还能有播放量"
 pubDate: "2023-11-17 15:42:01"
 category: "pmlife"
 banner: "@images/banners/_1553621520_6d34Z1x7UB.jpg"

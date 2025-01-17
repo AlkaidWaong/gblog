@@ -10,7 +10,7 @@ import { SITE } from '@/config'
 export async function getStaticPaths() {
     const posts = await getCollection('posts')
     return posts.map(post => ({
-        params: { slug: post.slug || post.data.title.toLowerCase().replace(/\s+/g, '-') },
+        params: { slug: post.slug },
         props: post,
     }))
 }
