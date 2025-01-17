@@ -3,7 +3,7 @@ title: "About Alkaid"
 description: "8年互联网产品，工作日上海打工人，周末**昆山街溜子**。人间凑数家，爱喝咖啡，打篮球，逛公园。"
 pubDate: "2025-01-11 15:42:01"
 category: "life"
-banner: "@images/banners/pysRbXAo7Ag6uh9grFDfUq7yktlfAHbBg9U4B7zA.png"
+banner: "@images/banners/_1553621520_6d34Z1x7UB.jpg"
 tags: ["life"]
 oldViewCount: 2387
 oldKeywords: ["alkaid"]
