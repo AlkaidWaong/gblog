@@ -3,10 +3,11 @@ title: "家居家装数字化：履约时效和销售定价的洞察"
 description: "在家居家装领域，订单履约的时效管理复杂而多样。对于有明确截止日期要求的大单，如整装、局改装修等项目，涉及到众多的步骤和多个团队的协作。"
 pubDate: "2024-07-04 15:42:01"
 category: "pmlife"
-banner: "@images/banners/_1553621520_6d34Z1x7UB.jpg"
+banner: "@images/banners/2WuRG9JdUORSQyo4MghNrfu2Kd0WR3JpLXRl7BwJ.jpeg"
 tags: ["家居数字化", "家居家装", "定价", "销售", "履约"]
 oldViewCount: 2387
 oldKeywords: ["家居家装", "数字化"]
+selected: true
 ---
 > 在当今竞争激烈的家居家装市场中，订单履约的重要性愈发凸显。订单履约不仅是满足客户需求的关键环节，更是决定企业生存和发展的核心要素。
 

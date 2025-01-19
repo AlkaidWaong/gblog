@@ -3,10 +3,11 @@ title: "用AI给女儿做了几期哄睡故事"
 description: "Ai在文本转语音的方面的效果还是惊艳的，但技术能力整合到工具应用层还需要更完善的产品方案来符合特定的用户工作流。"
 pubDate: "2023-11-29 15:42:01"
 category: "life"
-banner: "@images/banners/_1553621520_6d34Z1x7UB.jpg"
+banner: "@images/banners/bedtime-story.jpg"
 tags: ["文本转语音", "哄睡故事", "AI"]
 oldViewCount: 2387
 oldKeywords: []
+selected: true
 ---
 最近在Apple Podcast、Spotify上发布了自己的播客[《Beditme Story For Kids》](https://podcasts.apple.com/us/podcast/bedtime-story-for-kids/id1717719475?i=1000636728013)，这个播客的初衷是为我女儿做的哄睡节目。
 

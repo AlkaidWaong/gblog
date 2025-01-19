@@ -1,0 +1,24 @@
+---
+title: "😂薅了两个9块9实木手机支架"
+description: ""
+pubDate: "2023-01-09 15:42:01"
+category: "life"
+banner: "@images/banners/sell-phone-stand.jpg"
+tags: ["手机支架", "薅羊毛"]
+oldViewCount: 2387
+oldKeywords: []
+---
+淘宝发现了**小半家具**做了实木手机支架作为客户样品，拿来体验木料材质。一个ID限购一份，**9块9还包邮**。一般【樱桃木+白橡木】两个手机支架要50多块钱。这种羊毛还是要薅的，对吧？
+
+购买链接： [【薅物】实木手机支架]( https://item.taobao.com/item.htm?id=676052311928)
+
+
+
+![IMG_4585](https://p.ipic.vip/yrykfm.jpg)
+
+![IMG_4583](https://p.ipic.vip/ffkm6d.jpg)
+
+![IMG_4587](https://p.ipic.vip/x0zx2y.jpg)
+
+
+
