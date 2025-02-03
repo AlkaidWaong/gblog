@@ -7,6 +7,7 @@ banner: "@images/banners/oms.jpg"
 tags: ["订单数据转换", "数据下发", "物流服务", "履约信息"]
 oldViewCount: 2387
 oldKeywords: []
+selected: true
 ---
 > 这篇文章是根据发版后晚上开车回家路上自己的录音整理而来，比较散乱，随便看看得了。
 

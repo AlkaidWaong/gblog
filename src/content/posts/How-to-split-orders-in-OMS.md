@@ -7,6 +7,7 @@ banner: "@images/banners/Francesco-Ungaro- Unsplash.jpg"
 tags: ["OMS", "订单拆分"]
 oldViewCount: 2387
 oldKeywords: ["oms"]
+selected: true
 ---
 工作中经常接触订单相关的内容，没有系统的整理过。最近有空了打算整理归纳也有助增加自己的理解。先从拆单服务讲起吧。
 
