@@ -2,7 +2,7 @@
 title: "2022:🐑过，再见"
 description: "在家居家装领域，订单履约的时效管理复杂而多样。对于有明确截止日期要求的大单，如整装、局改装修等项目，涉及到众多的步骤和多个团队的协作。"
 pubDate: "2023-01-01 00:00:01"
-category: "life"
+category: "annualreview"
 banner: "@images/banners/mac-mini.jpg"
 tags: ["年度总结"]
 oldViewCount: 2387

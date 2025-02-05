@@ -2,7 +2,7 @@
 title: "OMS订单系统中的拆单过程"
 description: ""
 pubDate: "2022-12-18 15:42:01"
-category: "pmlife"
+category: "oms"
 banner: "@images/banners/Francesco-Ungaro- Unsplash.jpg"
 tags: ["OMS", "订单拆分"]
 oldViewCount: 2387

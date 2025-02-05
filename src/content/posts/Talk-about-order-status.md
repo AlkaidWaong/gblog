@@ -3,7 +3,7 @@ title: "OMS:结合生活服务行业谈订单状态、订单合并和订单拦�
 description: ""
 pubDate: "2022-12-21 15:42:01"
 category: "pmlife"
-banner: "@images/banners/order-status.jpg"
+banner: "@images/banners/CRSG_20241124_110930138.jpg"
 tags: ["订单系统", "订单拆分", "订单合并"]
 oldViewCount: 2387
 oldKeywords: []
