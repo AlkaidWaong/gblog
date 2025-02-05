@@ -2,7 +2,7 @@
 title: "多平台订单履约：记一次迭代的经历"
 description: "在跨境电商中的订单数据转换、数据下发和数据回传电商平台的协议差异，带来的业务复杂度"
 pubDate: "2023-09-10 15:42:01"
-category: "pmlife"
+category: "oms"
 banner: "@images/banners/CRSG_20241216_110920367.jpg"
 tags: ["订单数据转换", "数据下发", "物流服务", "履约信息"]
 oldViewCount: 2387

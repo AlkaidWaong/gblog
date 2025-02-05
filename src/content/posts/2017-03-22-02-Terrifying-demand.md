@@ -3,7 +3,7 @@ title: "可怕的需求"
 description: "需求是越辩越明的，不了解清楚只是大家一起走弯路。"
 pubDate: "2017-03-22 15:42:01"
 category: "pmlife"
-banner: "@images/banners/2022-annual-review.jpg"
+banner: "@images/banners/longhua.jpg"
 tags: ["需求"]
 oldViewCount: 2387
 oldKeywords: ["需求"]

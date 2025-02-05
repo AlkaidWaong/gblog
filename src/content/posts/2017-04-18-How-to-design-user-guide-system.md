@@ -3,7 +3,7 @@ title: "从石墨文档来说说业绩多级帮助系统"
 description: "在恰当时机为用户提供帮助和指导"
 pubDate: "2017-04-18 15:42:01"
 category: "pmlife"
-banner: "@images/banners/2022-annual-review.jpg"
+banner: "@images/banners/longhua.jpg"
 tags: ["产品设计", "帮助中心"]
 oldViewCount: 2387
 oldKeywords: []

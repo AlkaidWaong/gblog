@@ -3,7 +3,7 @@ title: "都2022年了，原生APP开发还有必要吗？"
 description: "疫情后我们解散了APP团队"
 pubDate: "2022-06-16 15:42:01"
 category: "pmlife"
-banner: "@images/banners/2022-annual-review.jpg"
+banner: "@images/banners/longhua.jpg"
 tags: ["原生App", "团队变化"]
 oldViewCount: 2387
 oldKeywords: []

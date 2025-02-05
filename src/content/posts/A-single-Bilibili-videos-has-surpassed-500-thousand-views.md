@@ -3,7 +3,7 @@ title: "B站单稿件播放破50万了"
 description: "之前很喜欢上B站，也传过一些视频，没想到还能有播放量"
 pubDate: "2023-11-17 15:42:01"
 category: "pmlife"
-banner: "@images/banners/jFCjp0lKCELdUeIJYNFqfp5BgU1BaVZYbdwmVLJh.jpeg"
+banner: "@images/banners/CRSG_20241124_110226638.jpg"
 tags: ["B站"]
 oldViewCount: 2387
 oldKeywords: ["家居家装", "数字化"]

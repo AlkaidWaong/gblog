@@ -3,7 +3,7 @@ title: "一个产品经理的职责"
 description: "明确定位是做对事情的基础"
 pubDate: "2018-01-05 15:42:01"
 category: "pmlife"
-banner: "@images/banners/2022-annual-review.jpg"
+banner: "@images/banners/longhua.jpg"
 tags: ["产品经理"]
 oldViewCount: 2387
 oldKeywords: []

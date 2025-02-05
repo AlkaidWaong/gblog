@@ -3,7 +3,7 @@ title: "积累的版本垃圾迟早让你吃亏"
 description: "我的经验是每半年就要对历史版本做一次梳理，旨在及时对产品发展路线纠偏。"
 pubDate: "2017-05-16 15:42:01"
 category: "pmlife"
-banner: "@images/banners/2022-annual-review.jpg"
+banner: "@images/banners/longhua.jpg"
 tags: ["产品设计", "经验之谈"]
 oldViewCount: 2387
 oldKeywords: []
