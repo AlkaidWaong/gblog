@@ -3,7 +3,7 @@ title: "O2O到家业务履约集单：降低成本的有效策略和具体做法
 description: "到家业务的核心是实现商品和服务的高效配送，而履约集单是一种有效的方式来降低相关成本。通过集单，企业可以在一个时间段内集中处理多个订单，减少配送次数和路程，从而降低人力、运输和维护成本。"
 pubDate: "2023-10-24 15:42:01"
 category: "pmlife"
-banner: "@images/banners/_1553621520_6d34Z1x7UB.jpg"
+banner: "@images/banners/_1553621492_HgG6NHK3b0.jpg"
 tags: ["履约", "O2O"]
 oldViewCount: 2387
 oldKeywords: ["履约", "O2O"]

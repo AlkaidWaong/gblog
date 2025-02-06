@@ -3,7 +3,7 @@ title: "电商平台API千差万别，OMS如何应对？"
 description: "跨境电商中多平台的API对接，订单导入和数据标准化处理"
 pubDate: "2023-09-19 15:42:01"
 category: "oms"
-banner: "@images/banners/_1553621520_6d34Z1x7UB.jpg"
+banner: "@images/banners/_1598605859_vwfXGqateM.jpg"
 tags: ["OMS", "电商", "API对接"]
 oldViewCount: 2387
 oldKeywords: []
