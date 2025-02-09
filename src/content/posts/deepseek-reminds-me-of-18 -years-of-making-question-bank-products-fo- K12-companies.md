@@ -3,7 +3,7 @@ title: "Deepseek让我想起18年在K12公司做题库产品"
 description: "2018年我还在一家K12教育公司做高中阶段数学和英语科目的题库产品。"
 pubDate: "2025-02-06 15:42:01"
 category: "pmlife"
-banner: "@images/banners/_1589033425_F8CI2F3YQP.jpg"
+banner: "@images/banners/CRSG_20250205_164655508.jpg"
 tags: ["智能组卷", "题库系统", "AI教育"]
 oldViewCount: 2387
 oldKeywords: []
