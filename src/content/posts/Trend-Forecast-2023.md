@@ -2,7 +2,7 @@
 title: "趋势预测 2023"
 description: ""
 pubDate: "2024-07-04 15:42:01"
-category: "pmlife"
+category: "life"
 banner: "@images/banners//CRSG_20250101_122024413.jpg"
 tags: ["灵活用工", "AGC", "AI"]
 oldViewCount: 2387
