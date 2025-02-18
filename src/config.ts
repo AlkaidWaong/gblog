@@ -23,7 +23,7 @@ export const FooterLinks = [
             { name: 'Posts', url: '/posts' },
             { name: 'Timeline', url: '/timeline' },
             { name: 'Categories', url: '/categories' },
-            { name: 'About Me', url: '/posts/about-godruoyi' },
+            { name: 'About Me', url: '/posts/about-alkaid' },
         ],
     },
     {
@@ -31,7 +31,9 @@ export const FooterLinks = [
         links: [
             { name: 'RSS', url: '/rss.xml' },
             { name: 'Site Map', url: '/sitemap-index.xml' },
-            { name: 'Twitter', url: 'https://x.com/godruoyi' },
+            { name: 'Twitter', url: 'https://x.com/AlkaidWaong' },
+            { name: 'GitHub', url: 'https://github.com/AlkaidWaong' },
+            { name: 'Evernote', url: 'https://share.evernote.com/note/11c5b7db-ece3-447b-34c3-80a64d2b5889' },
         ],
     },
 ]
