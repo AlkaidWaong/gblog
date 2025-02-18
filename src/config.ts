@@ -40,13 +40,13 @@ export const FooterLinks = [
 
 export const Settings = {
     GoogleAnalytics: {
-        enable: false,
+        enable: true,
         id: 'G-32C0YLPHWP',
     },
 
     // See https://github.com/umami-software/umami
     UmamiAnalytics: {
-        enable: true,
+        enable: false,
         dataWebsiteID: 'bf63658a-9418-4f39-a6a1-5a0cedb6e429',
     },
 
