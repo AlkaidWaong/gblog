@@ -2,7 +2,7 @@ import type { NavigationLink, Site } from './types.ts'
 
 export const SITE: Site = {
     author: 'Alkaid',
-    url: 'https://godruoyi.com',
+    url: 'https://blog.ifoz.net',
     title: 'Alkaid\'s Blog',
     description: 'Alkaid\'s personal blog, I enjoy the process of building something using any technology stack',
     shortDescription: '',
@@ -41,7 +41,7 @@ export const FooterLinks = [
 export const Settings = {
     GoogleAnalytics: {
         enable: false,
-        id: 'G-TKQ4L3ZDSF',
+        id: 'G-32C0YLPHWP',
     },
 
     // See https://github.com/umami-software/umami
