@@ -29,6 +29,12 @@ Hey，我是Alkaid（a.k.a.壹条熊），8年互联网产品，工作日上海�
 - [通过小宇宙收听](https://bedtimestories.podcast.xyz)
 - [喜马拉雅收听](https://m.ximalaya.com/album/79263844?from=pc)
 
+### 我的
+
+- [Best Affiliate](https://www.bestaffiliate.link): 帮助内容创作者、独立开发者发现高收益的软件联盟计划，最大限度地提高联盟营销的成功率。
+- [MacAppHQ](https://www.macapphq.com/)：Mac软件导航站，帮助大家发现和下载当下热门的Mac软件和浏览器扩展。
+- [摇摇乐器](https://apps.apple.com/us/app/lets-shake/id6744804250)：一个App装下10+早教启蒙乐器,不用收纳整理随时随地用
+- ~~陪伴日App: 0～3岁幼儿家长的亲子互动指南(已停止更新)~~
 
 
 ### 关注的创作者
@@ -95,21 +101,11 @@ Hey，我是Alkaid（a.k.a.壹条熊），8年互联网产品，工作日上海�
 
 
 
-### 我的
-
-- [Best Affiliate](https://www.bestaffiliate.link): 帮助内容创作者、独立开发者发现高收益的软件联盟计划，最大限度地提高联盟营销的成功率。
-- [MacAppHQ](https://www.macapphq.com/)：Mac软件导航站，帮助大家发现和下载当下热门的Mac软件和浏览器扩展。
-- ~~陪伴日App: 0～3岁幼儿家长的亲子互动指南(已停止更新)~~
-
-
-
 ### 联系
 
 Email：alkaid.waong{at}foxmail.com
 
 🐦𝕏 ：[@AlkaidWaong](https://twitter.com/AlkaidWaong)
-
-
 
 
 另外目前有维护了多年的twitter列表：**[独立开发者](https://twitter.com/i/lists/1216990835155169280)**，利用工具是人类的一种生活方式。关注健康，高效的产品和他们的创造者。
